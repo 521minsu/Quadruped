@@ -1,6 +1,6 @@
 # Quadruped
 This is a personal project for an affordable 12-DOF quadruped robot, influenced by Boston Dynamic's SPOT. <br/>
-![First Stand](https://github.com/521minsu/Quadruped/blob/aa18a558a3b5afb983cd0bc8cea1c4aba385dab9/Asset/Images/Quadruped_First_Stand.jpg?raw=true)
+![First Stand](Asset/Images/Quadruped_First_Stand.jpg?raw=true)
 
 
 ## TO DO
